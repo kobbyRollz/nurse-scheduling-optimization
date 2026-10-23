@@ -1,0 +1,8 @@
+"day","morning","afternoon","night","day_off","leave","min_nurses","rostered","spare"
+"Monday",35,15,8,0,0,58,66,8
+"Tuesday",30,15,11,0,0,56,67,11
+"Wednesday",29,17,12,0,0,58,66,8
+"Thursday",32,14,12,0,0,58,66,8
+"Friday",27,18,13,0,0,58,66,8
+"Saturday",24,15,12,0,0,51,66,15
+"Sunday",25,16,14,0,0,55,66,11

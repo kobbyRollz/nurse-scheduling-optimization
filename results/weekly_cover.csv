@@ -1,0 +1,8 @@
+"day","required","scheduled","surplus"
+"Monday",58,59,1
+"Tuesday",56,58,2
+"Wednesday",58,60,2
+"Thursday",58,58,0
+"Friday",58,58,0
+"Saturday",51,51,0
+"Sunday",55,55,0

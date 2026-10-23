@@ -1,0 +1,6 @@
+"scenario","core_nurses","with_relief"
+"Fixed shift type; 5 days, nights 4 (base case)",84,95
+"Fixed shift type; 5 days for every shift",80,90
+"Fixed shift type; 6 days, nights 4",75,85
+"Any nurse can work any shift; 5 days a week",79,89
+"Any nurse can work any shift; 6 days a week",66,74
